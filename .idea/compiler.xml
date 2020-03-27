@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="nacos-config9100" />
+        <module name="cloud-eureka-server7002" />
+        <module name="cloud-api-commons" />
+        <module name="cloud-consumer-test80" />
+        <module name="cloud-eureka-server7001" />
+        <module name="cloudalibba-provide-test9000" />
+        <module name="cloud-config-center5000" />
+        <module name="cloud-config-client5001" />
+        <module name="cloudalibba-provide-test9002" />
+        <module name="cloud-provider-test8001" />
+        <module name="apollo7070" />
+        <module name="cloud-provider-test8002" />
+        <module name="cloudalibba-provide-test9001" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="apollo" target="1.8" />
+      <module name="cloud-config-center4444" target="1.8" />
+      <module name="cloudalibba-provide-test9000" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

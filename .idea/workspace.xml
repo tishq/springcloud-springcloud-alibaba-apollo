@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6bec9480-24f8-4eba-bdd5-7f2bb8eaa9b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/apollo7070/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apollo7070/src/main/java/com/upc/apollo/MainApollo7070.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apollo7070/src/main/java/com/upc/apollo/controller/ApolloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apollo7070/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apollo7070/target/classes/META-INF/apollo7070.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apollo7070/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apollo7070/target/classes/com/upc/apollo/MainApollo7070.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apollo7070/target/classes/com/upc/apollo/controller/ApolloController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-api-commons/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-api-commons/src/main/java/com/upc/springcloud/entity/CommonResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-api-commons/src/main/java/com/upc/springcloud/entity/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-api-commons/target/classes/com/upc/springcloud/entity/CommonResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-api-commons/target/classes/com/upc/springcloud/entity/Role.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-api-commons/target/cloud-api-commons-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-api-commons/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-api-commons/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-api-commons/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-api-commons/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-center5000/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-center5000/src/main/java/com/upc/springcloud/MainAppConfigCenter5000.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-center5000/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-center5000/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-center5000/target/classes/com/upc/springcloud/MainAppConfigCenter5000.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-client5001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-client5001/src/main/java/com/upc/springcloud/MainAppConfigClient5001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-client5001/src/main/java/com/upc/springcloud/controller/ConfigController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-client5001/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-client5001/target/classes/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-client5001/target/classes/com/upc/springcloud/MainAppConfigClient5001.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-client5001/target/classes/com/upc/springcloud/controller/ConfigController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-test80/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-test80/src/main/java/com/upc/springcloud/TestMain80.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-test80/src/main/java/com/upc/springcloud/config/MyConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-test80/src/main/java/com/upc/springcloud/controller/RoleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-test80/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-test80/target/classes/META-INF/cloud-consumer-test80.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-test80/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-test80/target/classes/com/upc/springcloud/TestMain80.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-test80/target/classes/com/upc/springcloud/config/MyConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-test80/target/classes/com/upc/springcloud/controller/RoleController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-test80/target/test-classes/META-INF/cloud-consumer-test80.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-eureka-server7001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-eureka-server7001/src/main/java/com/upc/springcloud/EurekaServe7001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-eureka-server7001/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-eureka-server7001/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-eureka-server7001/target/classes/com/upc/springcloud/EurekaServe7001.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-eureka-server7002/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-eureka-server7002/src/main/java/com/upc/springcloud/EurekaServe7002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-eureka-server7002/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-eureka-server7002/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-eureka-server7002/target/classes/com/upc/springcloud/EurekaServe7002.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-test8001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-test8001/src/main/java/com/upc/springcloud/TestMain8001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-test8001/src/main/java/com/upc/springcloud/controller/RoleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-test8001/src/main/java/com/upc/springcloud/dao/RoleMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-test8001/src/main/java/com/upc/springcloud/service/RoleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-test8001/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-test8001/src/main/resources/mappers/RoleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-test8001/src/test/java/MyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-test8001/target/classes/META-INF/cloud-provider-test8001.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-test8001/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-test8001/target/classes/com/upc/springcloud/TestMain8001.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-test8001/target/classes/com/upc/springcloud/controller/RoleController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-test8001/target/classes/com/upc/springcloud/dao/RoleMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-test8001/target/classes/com/upc/springcloud/service/RoleService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-test8001/target/classes/mappers/RoleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-test8001/target/test-classes/META-INF/cloud-provider-test8001.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-test8001/target/test-classes/MyTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-test8002/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-test8002/src/main/java/com/upc/springcloud/TestMain8002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-test8002/src/main/java/com/upc/springcloud/controller/RoleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-test8002/src/main/java/com/upc/springcloud/dao/RoleMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-test8002/src/main/java/com/upc/springcloud/service/RoleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-test8002/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-test8002/src/main/resources/mappers/RoleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-test8002/target/classes/META-INF/cloud-provider-test8002.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-test8002/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-test8002/target/classes/com/upc/springcloud/TestMain8002.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-test8002/target/classes/com/upc/springcloud/controller/RoleController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-test8002/target/classes/com/upc/springcloud/dao/RoleMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-test8002/target/classes/com/upc/springcloud/service/RoleService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-test8002/target/classes/mappers/RoleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibba-provide-test9001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibba-provide-test9001/src/main/java/com/upc/springcloud/TestMain9001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibba-provide-test9001/src/main/java/com/upc/springcloud/controller/NacosController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibba-provide-test9001/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibba-provide-test9001/target/classes/META-INF/cloudalibba-provide-test9001.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibba-provide-test9001/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibba-provide-test9001/target/classes/com/upc/springcloud/TestMain9001.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibba-provide-test9001/target/classes/com/upc/springcloud/controller/NacosController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibba-provide-test9002/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibba-provide-test9002/src/main/java/com/upc/springcloud/TestMain9002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibba-provide-test9002/src/main/java/com/upc/springcloud/controller/NacosController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibba-provide-test9002/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibba-provide-test9002/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibba-provide-test9002/target/classes/com/upc/springcloud/TestMain9002.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudalibba-provide-test9002/target/classes/com/upc/springcloud/controller/NacosController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-config9100/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-config9100/src/main/java/com/upc/springcloud/NacosConfigClientMain9100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-config9100/src/main/java/com/upc/springcloud/controller/NacosClientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-config9100/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-config9100/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-config9100/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-config9100/target/classes/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-config9100/target/classes/com/upc/springcloud/NacosConfigClientMain9100.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-config9100/target/classes/com/upc/springcloud/controller/NacosClientController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/cloud-config-center4444/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\env\apache-maven-3.6.3\repo" />
+        <option name="mavenHome" value="D:/env/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\env\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1ZZI0QTlbS6bhjjVRIaXj6o3TBO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\q\IdeaProjects\cloud2020\cloud-provider-test8001\src\main\java" />
+      <recent name="C:\Users\q\IdeaProjects\cloud2020\cloud-provider-test8001\src\main" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.upc.springcloud" />
+      <recent name="com.upc.springcloud.entity" />
+      <recent name="com.upc.springcloud.dao" />
+      <recent name="com.upc.springcloud.beans" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\q\IdeaProjects\cloud2020\cloudalibba-provide-test9002\src\main\resources" />
+      <recent name="C:\Users\q\IdeaProjects\cloud2020\cloudalibba-provide-test9002\src\main\java" />
+      <recent name="C:\Users\q\IdeaProjects\cloud2020\cloudalibba-provide-test9001\src\main\resources" />
+      <recent name="C:\Users\q\IdeaProjects\cloud2020\cloud-config-client5001\src\main\resources" />
+      <recent name="C:\Users\q\IdeaProjects\cloud2020\cloud-config-center5000\src\main\resources" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.upc.springcloud" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MainApollo7070">
+    <configuration name="MainApollo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainApollo" />
+      <module name="apollo7070" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServe7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-eureka-server7001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.upc.springcloud.EurekaServe7001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServe7002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-eureka-server7002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.upc.springcloud.EurekaServe7002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApollo7070" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="apollo7070" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.upc.apollo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.upc.apollo.MainApollo7070" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApolo7070" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="apollo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.upc.apollo.MainApolo7070" />
+      <option name="VM_PARAMETERS" value="-Denv=DEV" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainAppConfigCenter5000" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-config-center5000" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.upc.springcloud.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.upc.springcloud.MainAppConfigCenter5000" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainAppConfigClient5001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-config-client5001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.upc.springcloud.MainAppConfigClient5001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NacosConfigClientMain9100" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="nacos-config9100" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.upc.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.upc.springcloud.NacosConfigClientMain9100" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumer-test80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.upc.springcloud.TestMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-test8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.upc.springcloud.TestMain8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMain8002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-test8002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.upc.springcloud.TestMain8002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMain9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudalibba-provide-test9001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.upc.springcloud.TestMain9001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMain9002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloudalibba-provide-test9002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.upc.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.upc.springcloud.TestMain9002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MainApollo" />
+      <item itemvalue="Spring Boot.EurekaServe7002" />
+      <item itemvalue="Spring Boot.MainApolo7070" />
+      <item itemvalue="Spring Boot.MainAppConfigClient5001" />
+      <item itemvalue="Spring Boot.TestMain80" />
+      <item itemvalue="Spring Boot.TestMain8001" />
+      <item itemvalue="Spring Boot.TestMain9001" />
+      <item itemvalue="Spring Boot.EurekaServe7001" />
+      <item itemvalue="Spring Boot.TestMain8002" />
+      <item itemvalue="Spring Boot.MainAppConfigCenter5000" />
+      <item itemvalue="Spring Boot.NacosConfigClientMain9100" />
+      <item itemvalue="Spring Boot.TestMain9002" />
+      <item itemvalue="Spring Boot.MainApollo7070" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MainApollo7070" />
+        <item itemvalue="Application.MainApollo" />
+        <item itemvalue="Spring Boot.NacosConfigClientMain9100" />
+        <item itemvalue="Spring Boot.TestMain9002" />
+        <item itemvalue="Spring Boot.MainAppConfigCenter5000" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bec9480-24f8-4eba-bdd5-7f2bb8eaa9b5" name="Default Changelist" comment="" />
+      <created>1585039966003</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585039966003</updated>
+      <workItem from="1585039971813" duration="10751000" />
+      <workItem from="1585051557024" duration="589000" />
+      <workItem from="1585052181380" duration="242000" />
+      <workItem from="1585052504664" duration="349000" />
+      <workItem from="1585052904548" duration="311000" />
+      <workItem from="1585053587367" duration="76000" />
+      <workItem from="1585053681660" duration="14000" />
+      <workItem from="1585099174009" duration="1936000" />
+      <workItem from="1585101135029" duration="23588000" />
+      <workItem from="1585148727707" duration="4997000" />
+      <workItem from="1585154460805" duration="1855000" />
+      <workItem from="1585156346602" duration="2857000" />
+      <workItem from="1585183665047" duration="7439000" />
+      <workItem from="1585210522859" duration="3072000" />
+      <workItem from="1585237283641" duration="1157000" />
+      <workItem from="1585240350944" duration="2640000" />
+      <workItem from="1585243405088" duration="5091000" />
+      <workItem from="1585294759013" duration="1428000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Project_Structure" timestamp="1585296048416">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1585296048416" />
+    <state x="499" y="170" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1585050137112">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="170" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1585050137112" />
+    <state x="223" y="70" width="1155" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585245269828">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="70" width="1155" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1585245269828" />
+    <state x="476" y="279" width="583" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585241431256">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="476" y="279" width="583" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1585241431256" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1585143373729">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585143373729" />
+    <state width="1493" height="214" key="GridCell.Tab.0.bottom" timestamp="1585248932412">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585248932412" />
+    <state width="1493" height="214" key="GridCell.Tab.0.center" timestamp="1585248932412">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585248932412" />
+    <state width="1493" height="214" key="GridCell.Tab.0.left" timestamp="1585248932412">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585248932412" />
+    <state width="1493" height="214" key="GridCell.Tab.0.right" timestamp="1585248932412">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585248932412" />
+    <state width="1493" height="214" key="GridCell.Tab.1.bottom" timestamp="1585248932412">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585248932412" />
+    <state width="1493" height="214" key="GridCell.Tab.1.center" timestamp="1585248932412">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585248932412" />
+    <state width="1493" height="214" key="GridCell.Tab.1.left" timestamp="1585248932412">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585248932412" />
+    <state width="1493" height="214" key="GridCell.Tab.1.right" timestamp="1585248932412">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585248932412" />
+    <state x="299" y="70" key="Maven.ArtifactSearchDialog" timestamp="1585107789031">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="70" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1585107789031" />
+    <state x="349" y="77" key="Registry" timestamp="1585052422490">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="77" key="Registry/0.0.1536.824@0.0.1536.824" timestamp="1585052422490" />
+    <state x="272" y="0" width="1037" height="824" key="SettingsEditor" timestamp="1585143430287">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="0" width="1037" height="824" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585143430287" />
+    <state x="540" y="143" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1585106627324">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="143" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1585106627324" />
+    <state x="356" y="125" key="new project wizard" timestamp="1585244108622">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="356" y="125" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1585244108622" />
+    <state x="472" y="104" key="spring file set editor" timestamp="1585143406346">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="472" y="104" key="spring file set editor/0.0.1536.824@0.0.1536.824" timestamp="1585143406346" />
+  </component>
+</project>

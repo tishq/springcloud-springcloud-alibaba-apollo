@@ -1,116 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6bec9480-24f8-4eba-bdd5-7f2bb8eaa9b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/apollo7070/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apollo7070/src/main/java/com/upc/apollo/MainApollo7070.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apollo7070/src/main/java/com/upc/apollo/controller/ApolloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apollo7070/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apollo7070/target/classes/META-INF/apollo7070.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apollo7070/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apollo7070/target/classes/com/upc/apollo/MainApollo7070.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apollo7070/target/classes/com/upc/apollo/controller/ApolloController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-api-commons/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-api-commons/src/main/java/com/upc/springcloud/entity/CommonResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-api-commons/src/main/java/com/upc/springcloud/entity/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-api-commons/target/classes/com/upc/springcloud/entity/CommonResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-api-commons/target/classes/com/upc/springcloud/entity/Role.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-api-commons/target/cloud-api-commons-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-api-commons/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-api-commons/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-api-commons/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-api-commons/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-config-center5000/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-config-center5000/src/main/java/com/upc/springcloud/MainAppConfigCenter5000.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-config-center5000/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-config-center5000/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-config-center5000/target/classes/com/upc/springcloud/MainAppConfigCenter5000.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-config-client5001/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-config-client5001/src/main/java/com/upc/springcloud/MainAppConfigClient5001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-config-client5001/src/main/java/com/upc/springcloud/controller/ConfigController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-config-client5001/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-config-client5001/target/classes/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-config-client5001/target/classes/com/upc/springcloud/MainAppConfigClient5001.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-config-client5001/target/classes/com/upc/springcloud/controller/ConfigController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-test80/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-test80/src/main/java/com/upc/springcloud/TestMain80.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-test80/src/main/java/com/upc/springcloud/config/MyConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-test80/src/main/java/com/upc/springcloud/controller/RoleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-test80/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-test80/target/classes/META-INF/cloud-consumer-test80.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-test80/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-test80/target/classes/com/upc/springcloud/TestMain80.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-test80/target/classes/com/upc/springcloud/config/MyConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-test80/target/classes/com/upc/springcloud/controller/RoleController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-test80/target/test-classes/META-INF/cloud-consumer-test80.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-eureka-server7001/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-eureka-server7001/src/main/java/com/upc/springcloud/EurekaServe7001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-eureka-server7001/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-eureka-server7001/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-eureka-server7001/target/classes/com/upc/springcloud/EurekaServe7001.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-eureka-server7002/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-eureka-server7002/src/main/java/com/upc/springcloud/EurekaServe7002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-eureka-server7002/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-eureka-server7002/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-eureka-server7002/target/classes/com/upc/springcloud/EurekaServe7002.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-test8001/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-test8001/src/main/java/com/upc/springcloud/TestMain8001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-test8001/src/main/java/com/upc/springcloud/controller/RoleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-test8001/src/main/java/com/upc/springcloud/dao/RoleMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-test8001/src/main/java/com/upc/springcloud/service/RoleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-test8001/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-test8001/src/main/resources/mappers/RoleMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-test8001/src/test/java/MyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-test8001/target/classes/META-INF/cloud-provider-test8001.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-test8001/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-test8001/target/classes/com/upc/springcloud/TestMain8001.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-test8001/target/classes/com/upc/springcloud/controller/RoleController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-test8001/target/classes/com/upc/springcloud/dao/RoleMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-test8001/target/classes/com/upc/springcloud/service/RoleService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-test8001/target/classes/mappers/RoleMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-test8001/target/test-classes/META-INF/cloud-provider-test8001.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-test8001/target/test-classes/MyTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-test8002/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-test8002/src/main/java/com/upc/springcloud/TestMain8002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-test8002/src/main/java/com/upc/springcloud/controller/RoleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-test8002/src/main/java/com/upc/springcloud/dao/RoleMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-test8002/src/main/java/com/upc/springcloud/service/RoleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-test8002/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-test8002/src/main/resources/mappers/RoleMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-test8002/target/classes/META-INF/cloud-provider-test8002.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-test8002/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-test8002/target/classes/com/upc/springcloud/TestMain8002.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-test8002/target/classes/com/upc/springcloud/controller/RoleController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-test8002/target/classes/com/upc/springcloud/dao/RoleMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-test8002/target/classes/com/upc/springcloud/service/RoleService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-test8002/target/classes/mappers/RoleMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibba-provide-test9001/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibba-provide-test9001/src/main/java/com/upc/springcloud/TestMain9001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibba-provide-test9001/src/main/java/com/upc/springcloud/controller/NacosController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibba-provide-test9001/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibba-provide-test9001/target/classes/META-INF/cloudalibba-provide-test9001.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibba-provide-test9001/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibba-provide-test9001/target/classes/com/upc/springcloud/TestMain9001.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibba-provide-test9001/target/classes/com/upc/springcloud/controller/NacosController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibba-provide-test9002/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibba-provide-test9002/src/main/java/com/upc/springcloud/TestMain9002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibba-provide-test9002/src/main/java/com/upc/springcloud/controller/NacosController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibba-provide-test9002/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibba-provide-test9002/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibba-provide-test9002/target/classes/com/upc/springcloud/TestMain9002.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudalibba-provide-test9002/target/classes/com/upc/springcloud/controller/NacosController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-config9100/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-config9100/src/main/java/com/upc/springcloud/NacosConfigClientMain9100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-config9100/src/main/java/com/upc/springcloud/controller/NacosClientController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-config9100/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-config9100/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-config9100/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-config9100/target/classes/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-config9100/target/classes/com/upc/springcloud/NacosConfigClientMain9100.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-config9100/target/classes/com/upc/springcloud/controller/NacosClientController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cloud-config-center4444/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6bec9480-24f8-4eba-bdd5-7f2bb8eaa9b5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -384,7 +275,7 @@
       <workItem from="1585237283641" duration="1157000" />
       <workItem from="1585240350944" duration="2640000" />
       <workItem from="1585243405088" duration="5091000" />
-      <workItem from="1585294759013" duration="1428000" />
+      <workItem from="1585294759013" duration="3354000" />
     </task>
     <servers />
   </component>
